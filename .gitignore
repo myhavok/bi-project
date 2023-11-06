@@ -3,3 +3,4 @@ notebooks/cifar_net.pth
 .ipynb_checkpoints/
 notebooks/.DS_Store
 .DS_Store
+data/credit_card_transactions.pkl
