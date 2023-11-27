@@ -1,7 +1,7 @@
 mcc,edited_description,combined_description,usda_description,irs_description,irs_reportable
-0742,Veterinary Services,Veterinary Services,Veterinary Services,Veterinary Services,Yes
-0763,Agricultural Co-operatives,Agricultural Co-operatives,Agricultural Co-operatives,Agricultural Cooperative,Yes
-0780,"Horticultural Services, Landscaping Services","Horticultural Services, Landscaping Services",Horticultural Services,Landscaping Services,Yes
+742,Veterinary Services,Veterinary Services,Veterinary Services,Veterinary Services,Yes
+763,Agricultural Co-operatives,Agricultural Co-operatives,Agricultural Co-operatives,Agricultural Cooperative,Yes
+780,"Horticultural Services, Landscaping Services","Horticultural Services, Landscaping Services",Horticultural Services,Landscaping Services,Yes
 1520,General Contractors-Residential and Commercial,General Contractors-Residential and Commercial,General Contractors-Residential and Commercial,General Contractors,Yes
 1711,"Air Conditioning Contractors – Sales and Installation, Heating Contractors – Sales, Service, Installation","Air Conditioning Contractors – Sales and Installation, Heating Contractors – Sales, Service, Installation",Air Conditioning Contractors – Sales and Installation,"Heating, Plumbing, A/C",Yes
 1731,Electrical Contractors,Electrical Contractors,Electrical Contractors,Electrical Contractors,Yes
@@ -805,9 +805,9 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 5813,"Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques","Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques","Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques",Drinking Places,No1.6041-3(c)
 5814,Fast Food Restaurants,Fast Food Restaurants,Fast Food Restaurants,Fast Food Restaurants,No1.6041-3(c)
 5815,"Digital Goods: Media, Books, Movies, Music",,,,
-5816,"Digital Goods: Games",,,,
-5817,"Digital Goods: Applications (Excludes Games)",,,,
-5818,"Digital Goods: Large Digital Goods Merchant",,,,
+5816,Digital Goods: Games,,,,
+5817,Digital Goods: Applications (Excludes Games),,,,
+5818,Digital Goods: Large Digital Goods Merchant,,,,
 5832,"Antique Shops – Sales, Repairs, and Restoration Services","Antique Shops – Sales, Repairs, and Restoration Services","Antique Shops – Sales, Repairs, and Restoration Services",,
 5912,Drug Stores and Pharmacies,Drug Stores and Pharmacies,Drug Stores and Pharmacies,Drug Stores and Pharmacies,No1.6041-3(c)
 5921,"Package Stores – Beer, Wine, and Liquor","Package Stores – Beer, Wine, and Liquor","Package Stores – Beer, Wine, and Liquor","Package Stores-Beer, Wine, and Liquor",No1.6041-3(c)
@@ -919,8 +919,8 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 7692,Welding Repair,Welding Repair,Welding Repair,Welding Repair,Yes
 7699,Repair Shops and Related Services –Miscellaneous,Repair Shops and Related Services –Miscellaneous,Repair Shops and Related Services –Miscellaneous,Miscellaneous Repair Shops,Yes
 7800,Government-Owned Lotteries,,,,
-7801,"Government-Licensed On-Line Casinos (On-Line Gambling)",,,,
-7802,"Government-Licensed Horse/Dog Racing",,,,
+7801,Government-Licensed On-Line Casinos (On-Line Gambling),,,,
+7802,Government-Licensed Horse/Dog Racing,,,,
 7829,Motion Pictures and Video Tape Production and Distribution,Motion Pictures and Video Tape Production and Distribution,Motion Pictures and Video Tape Production and Distribution,Picture/Video Production,Yes
 7832,Motion Picture Theaters,Motion Picture Theaters,Motion Picture Theaters,Motion Picture Theaters,Yes
 7841,Video Tape Rental Stores,Video Tape Rental Stores,Video Tape Rental Stores,Video Tape Rental Stores,Yes
