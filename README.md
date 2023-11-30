@@ -2,10 +2,10 @@
 
 Group:
 Matthew Durocher (41036621)
-Mahima Sawhney (student number )
+Mahima Sawhney (041040152)
 Hung Lai (041046040)
-Ugo Momah (041049907 )
-Irina Salikhova (student number 041025826)
+Ugo Momah (041049907)
+Irina Salikhova (041025826)
 
 
 Data taken from [Kaggle](https://www.kaggle.com/datasets/teamincribo/credit-card-fraud) under Apache License.
