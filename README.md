@@ -7,8 +7,6 @@ Hung Lai (041046040)
 Ugo Momah (041049907)
 Irina Salikhova (041025826)
 
-MCC Codes from [greggles on GitHub](https://github.com/greggles/mcc-codes/blob/main/mcc_codes.csv)
-
 Transaction data taken from [Kaggle](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions) under Apache License.
 > This has been updated to the new dataset
 
